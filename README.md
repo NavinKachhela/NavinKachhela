@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Angular & Node JS<br>👯 I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about anything I'm happy to help<br>📫 How to reach me kachhelanavin@gmail.com</p>
+<p align="left">🌱 I’m currently learning Angular & Node JS<br>👯 I’m looking to collaborate on Web Dev Projects<br>💬 Ask me about anything I'm happy to help<br>📫 How to reach me <a  href = "mailto: kachhelanavin@gmail.com">kachhelanavin@gmail.com</a></p>
 
 ###
 
